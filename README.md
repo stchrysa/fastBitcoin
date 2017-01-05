@@ -13,7 +13,7 @@ _January 21, 2015_
 
 http://pub.tik.ee.ethz.ch/students/2014-HS/SA-2014-42.pdf
 
-##Abstact
+##Abstract
 Bitcoin is an electronic currency based on a peer-to-peer network for the propagation and verification of the transactions.  
 Nowadays, cashless transactions are becoming increasingly popular and bitcoin could be an established currency for such 
 transactions. Its distributed nature, though, and more specifically the delay overhead in transaction verification, not 
